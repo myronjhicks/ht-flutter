@@ -35,13 +35,7 @@ class _HomeScaffoldState extends State<HomeScaffold> {
   int _selectedIndex = 0;
   String pageTitle = 'Hicks Techniques';
 
-  final titles = [
-    'Sight Word Lists',
-    'Sight Words',
-    'Game',
-    'Blog',
-    'Settings'
-  ];
+  final titles = ['Sight Word Lists', 'Sight Words', 'Settings'];
 
   final screens = [
     ListsPage(),
