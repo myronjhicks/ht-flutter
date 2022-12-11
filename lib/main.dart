@@ -3,7 +3,6 @@ import 'package:hicks_techniques/pages/lists_page.dart';
 import 'package:hicks_techniques/pages/sight_words.dart';
 
 import 'colors.dart';
-import 'models/FlashCard.dart';
 import 'widgets/bottom_navigation.dart';
 
 void main() {
