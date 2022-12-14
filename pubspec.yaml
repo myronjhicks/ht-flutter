@@ -29,6 +29,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
   flip_card: ^0.6.0
+  scroll_to_index: ^3.0.1
 
 dev_dependencies:
   flutter_test:

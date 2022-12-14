@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class FlashCard extends StatelessWidget {
   final String imageUrl;
-  final void onPrevPage;
-  final void onNextPage;
+  final VoidCallback onPrevPage;
+  final VoidCallback onNextPage;
 
   const FlashCard({Key key, this.imageUrl, this.onPrevPage, this.onNextPage})
       : super(key: key);
@@ -28,9 +28,7 @@ class FlashCard extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               IconButton(
-                onPressed: () {
-                  return onPrevPage;
-                },
+                onPressed: onPrevPage,
                 icon: Icon(Icons.skip_next),
               ),
               IconButton(
@@ -39,9 +37,7 @@ class FlashCard extends StatelessWidget {
                 icon: Icon(Icons.keyboard_voice_outlined),
               ),
               IconButton(
-                onPressed: () {
-                  return onNextPage;
-                },
+                onPressed: onNextPage,
                 icon: Icon(Icons.skip_next),
               )
             ],
