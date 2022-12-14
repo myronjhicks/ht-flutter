@@ -2,8 +2,11 @@ import 'package:flutter/material.dart';
 
 class FlashCard extends StatelessWidget {
   final String imageUrl;
+  final void onPrevPage;
+  final void onNextPage;
 
-  const FlashCard({Key key, this.imageUrl}) : super(key: key);
+  const FlashCard({Key key, this.imageUrl, this.onPrevPage, this.onNextPage})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -22,7 +25,26 @@ class FlashCard extends StatelessWidget {
             child: Container(color: Colors.greenAccent),
           ),
           Row(
-            children: [ButtonBar()],
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+              IconButton(
+                onPressed: () {
+                  return onPrevPage;
+                },
+                icon: Icon(Icons.skip_next),
+              ),
+              IconButton(
+                iconSize: 40,
+                onPressed: () => {},
+                icon: Icon(Icons.keyboard_voice_outlined),
+              ),
+              IconButton(
+                onPressed: () {
+                  return onNextPage;
+                },
+                icon: Icon(Icons.skip_next),
+              )
+            ],
           )
         ],
       ),

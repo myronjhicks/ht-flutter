@@ -392,82 +392,329 @@
   },
   "15": {
     "": "HFWL-1-34-194.jpg",
-    "cards": []
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-196.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-197.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-198.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-199.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-200.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-201.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-202.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-203.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-204.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-205.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-206.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-207.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-208.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-209.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-210.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-211.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-212.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-213.jpg"
+      }
+    ]
   },
   "16": {
     "": "HFWL-1-34-214.jpg",
-    "cards": []
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-216.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-217.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-218.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-219.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-220.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-221.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-222.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-223.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-224.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-225.jpg"
+      }
+    ]
   },
   "17": {
-    "": "HFWL-1-34-226.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-226.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-231.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-232.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-233.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-234.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-235.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-236.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-237.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-238.jpg"
+      }
+    ]
   },
   "18": {
-    "": "HFWL-1-34-239.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-239.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-244.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-245.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-246.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-247.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-248.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-249.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-250.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-251.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-252.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-253.jpg"
+      }
+    ]
   },
-  "19": {
-    "": "HFWL-1-34-254.jpg",
-    "cards": []
+  "19": { 
+    "imageUrl": "HFWL-1-34-254.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-257.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-258.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-259.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-260.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-261.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-262.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-263.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-264.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-265.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-266.jpg"
+      }
+    ]
   },
   "20": {
-    "": "HFWL-1-34-267.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-267.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-274.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-275.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-276.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-277.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-278.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-279.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-280.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-281.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-282.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-283.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-284.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-285.jpg"
+      }
+    ]
   },
   "21": {
-    "": "HFWL-1-34-286.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-286.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-288.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-289.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-290.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-291.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-292.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-293.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-294.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-295.jpg"
+      }
+    ]
   },
   "22": {
-    "": "HFWL-1-34-296.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-296.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-298.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-299.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-300.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-301.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-302.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-303.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-304.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-305.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-306.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-307.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-308.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-309.jpg"
+      }
+    ]
   },
   "23": {
-    "": "HFWL-1-34-310.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-310.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-312.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-313.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-314.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-315.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-316.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-317.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-318.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-319.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-320.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-321.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-322.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-323.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-324.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-325.jpg"
+      }
+    ]
   },
   "24": {
-    "": "HFWL-1-34-326.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-326.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-328.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-329.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-330.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-331.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-332.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-333.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-334.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-335.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-336.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-337.jpg"
+      }
+    ]
   },
   "25": {
-    "": "HFWL-1-34-338.jpg",
-    "cards": []
+    "imageUrl": "HFWL-1-34-338.jpg",
+    "cards": [
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-341.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-342.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-343.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-344.jpg"
+      },
+      {
+        "front": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFWL-1-34-345.jpg",
+        "back": "https://hickstechniques.s3.amazonaws.com/HFWL-1-34/HFLW-1-34-346.jpg"
+      }
+    ]
   },
   "26": {
-    "": "HFWL-1-34-349.jpg",
+    "imageUrl": "HFWL-1-34-349.jpg",
     "cards": []
   },
   "27": {
-    "": "HFWL-1-34-365.jpg",
+    "imageUrl": "HFWL-1-34-365.jpg",
     "cards": []
   },
   "28": {
-    "": "HFWL-1-34-380.jpg",
+    "imageUrl": "HFWL-1-34-380.jpg",
     "cards": []
   },
   "29": {
-    "": "HFWL-1-34-394.jpg",
+    "imageUrl": "HFWL-1-34-394.jpg",
     "cards": []
   },
   "30": {
-    "": "HFWL-1-34-410.jpg",
+    "imageUrl": "HFWL-1-34-410.jpg",
     "cards": []
   },
   "31": {
-    "": "HFWL-1-34-427.jpg",
+    "imageUrl": "HFWL-1-34-427.jpg",
     "cards": []
   },
   "32": {
-    "": "HFWL-1-34-442.jpg",
+    "imageUrl": "HFWL-1-34-442.jpg",
     "cards": []
   },
   "33": {
-    "": "HFWL-1-34-456.jpg",
+    "imageUrl": "HFWL-1-34-456.jpg",
     "cards": []
   },
   "34": {
-    "": "HFWL-1-34-468.jpg",
+    "imageUrl": "HFWL-1-34-468.jpg",
     "cards": []
   }
 }
